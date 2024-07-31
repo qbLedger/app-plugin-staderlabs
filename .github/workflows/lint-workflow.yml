@@ -7,6 +7,7 @@ on:
       - main
       - master
       - develop
+      - bnbx-fusion-migration
   pull_request:
 
 jobs:
